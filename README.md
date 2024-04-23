@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://raw.githubusercontent.com/acidv1p3r/acidv1p3r/main/acidv1p3r.png" /></p>
 
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/acidv1p3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/acidv1p3r" target="_blank" rel="noreferrer"><img
