@@ -23,3 +23,13 @@ src="https://img.shields.io/twitch/status/acidv1p3r?logo=twitchsx&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/acidv1p3r"><img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="acidv1p3r's GitHub stats" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/acidv1p3r"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/acidv1p3r"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
