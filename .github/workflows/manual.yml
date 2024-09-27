@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: acidv1p3r
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
           plugin_gists: yes
