@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (every 3 hours)
-  schedule: [{cron: "0 */1 * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
