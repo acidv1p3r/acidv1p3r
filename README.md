@@ -15,6 +15,7 @@ src="https://img.shields.io/twitch/status/acidv1p3r?logo=twitchsx&style=for-the-
 </p>
 
 ### GitHub Stats
+
 ![Metrics](/github-metrics.svg)
 
 <b>My GitHub Stats</b>
