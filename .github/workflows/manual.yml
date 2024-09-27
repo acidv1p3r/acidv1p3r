@@ -29,7 +29,7 @@ jobs:
           # Options
           user: acidv1p3r
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: America/New_York
           plugin_gists: yes
           plugin_habits: yes
