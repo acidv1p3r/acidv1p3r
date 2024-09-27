@@ -25,7 +25,7 @@ src="https://img.shields.io/twitch/status/acidv1p3r?logo=twitchsx&style=for-the-
 
 <a href="http://www.github.com/acidv1p3r"><img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="acidv1p3r's GitHub stats" /></a>
 
-![Metrics](https://metrics.lecoq.io/acidv1p3r?template=classic&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FNew_York)
+
 
 ### Support Me
 
