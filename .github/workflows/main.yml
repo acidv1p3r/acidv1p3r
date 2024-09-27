@@ -1,4 +1,4 @@
-name: markscribe
+name: main
 
 on:
   push:
