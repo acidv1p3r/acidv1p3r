@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Linux+Tinkerer;Docker+Builder;System+Engineer;Things+Break+%2F+Things+Fix" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Linux+Tinkerer;Docker+Builder;Systems+Engineer;Break+%E2%86%92+Fix+%E2%86%92+Repeat" />
 </p>
 
 ---
