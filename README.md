@@ -26,7 +26,6 @@ ROLE: System Builder / Tinkerer / Breaker
 MODE: EXPERIMENTAL
 STATUS: STABLE
 UPTIME: UNKNOWN (too long)
-
 ```
 <p align="center"> <a href="https://github.com/acidv1p3r"> <img src="https://img.shields.io/github/followers/acidv1p3r?style=for-the-badge&color=0891b2" /> </a> <a href="https://x.com/acidv1p3r"> <img src="https://img.shields.io/twitter/follow/acidv1p3r?style=for-the-badge&color=1DA1F2" /> </a> <a href="https://twitch.tv/acidv1p3r"> <img src="https://img.shields.io/twitch/status/acidv1p3r?style=for-the-badge&color=9146FF&label=LIVE" /> </a> </p>
 
@@ -37,5 +36,7 @@ UPTIME: UNKNOWN (too long)
 💸 SUPPORT ME
 <p align="center"> <a href="https://www.buymeacoffee.com/acidv1p3r"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/> </a> <a href="https://www.ko-fi.com/acidv1p3r"> <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/> </a> </p>
 
+📊 SYSTEM STATS
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&theme=tokyonight&hide_border=true" /> </p> ```
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
