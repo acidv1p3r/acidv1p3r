@@ -1,4 +1,10 @@
-<h1 align="center">⚡ ACIDV1P3R // SYSTEM ONLINE</h1>
+<h1 align="center">
+  Hi 👋, I'm Acidv1p3r
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Linux+Tinkerer;Docker+Enthusiast;System+Builder;Professional+Thing+Breaker" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
 
