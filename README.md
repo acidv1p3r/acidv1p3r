@@ -37,13 +37,6 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
 </p>
 
-### My GitHub Stats
-
-![Metrics](/github-metrics.svg)
-
-<a href="http://www.github.com/acidv1p3r">
-  <img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="acidv1p3r's GitHub stats" />
-</a>
 
 ### My Socials
 
