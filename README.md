@@ -1,3 +1,4 @@
+🔴🟡🟢 Acidv1p3r.bat —⠀❐⠀⤬
 <h1 align="center">
   Hi 👋, I'm Acidv1p3r
 </h1>
