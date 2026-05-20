@@ -19,39 +19,10 @@
 ---
 
 ## 🟢 NODE STATUS
-```text
-[BOOT SEQUENCE]
-STATUS: COMPLETE
-INITIALIZING NODE INTERFACE...
-HANDSHAKE: OK
+<p align="center">
+  <img src="https://i.imgur.com/iI1rnJZ.png" />
+</p>
 
-[IDENTITY MODULE]
---------------------
-IDENTITY: VERIFIED
-USER: Acidv1p3r
-NODE: ONLINE
---------------------
-[SECURITY LAYER]
-ACCESS: GRANTED
-AUTH LEVEL: ADMIN
-STATUS: STABLE
---------------------
-[PROFILE]
-ROLE: System Builder / Tinkerer / Breaker
-MODE: EXPERIMENTAL
---------------------
-[KERNEL STATUS]
-STATUS: DEGRADED
-HEALTH: UNSTABLE
-UPTIME: UNKNOWN (too long)
-ERRORS: TOO MANY TO COUNT
-
-[FINAL STATE]
-SYSTEM: OPERATIONAL
-READY STATE: TRUE
-CONNECTION: SECURE
-EXIT CODE: 0
-```
 <p align="center"> <a href="https://github.com/acidv1p3r"> <img src="https://img.shields.io/github/followers/acidv1p3r?style=for-the-badge&color=0891b2" /> </a> <a href="https://x.com/acidv1p3r"> <img src="https://img.shields.io/twitter/follow/acidv1p3r?style=for-the-badge&color=1DA1F2" /> </a> <a href="https://twitch.tv/acidv1p3r"> <img src="https://img.shields.io/twitch/status/acidv1p3r?style=for-the-badge&color=9146FF&label=LIVE" /> </a> </p>
 
 ## ⚙️ MY SKILLS
