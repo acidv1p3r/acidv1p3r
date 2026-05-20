@@ -4,6 +4,8 @@
 
 <p align="center"><img src="https://imgur.com/Y3RSvgA.png" /></p>
 
+- ⚡ Fun fact **I think I'm funny**
+  
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/acidv1p3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
