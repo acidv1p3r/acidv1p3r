@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Acidv1p3r</h1>
+<h1 align="center">⚡ ACIDV1P3R // SYSTEM ONLINE</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=Profile%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
 
 <p align="center"><img src="https://i.imgur.com/Y3RSvgA.png" /></p>
 
