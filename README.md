@@ -1,20 +1,31 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=750&lines=BIOS+CHECK...+OK;LOADING+KERNEL...;MOUNTING+SYSTEM...;SCANNING+USER+PROFILE...;DECRYPTING+IDENTITY...;SECURITY+CHECK...+CLEAR;ACCESS+GRANTED" />
-</p>
 
 <h1 align="center">
   Hi 👋, I'm Acidv1p3r
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Linux+Tinkerer;Docker+Builder;System+Engineer;Things+Break+%2F+Things+Fix" />
+</p>
 
-<p align="center"><img src="https://i.imgur.com/Y3RSvgA.png" /></p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=SYSTEM+VIEWS&color=00f5ff&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/Y3RSvgA.png" />
+</p>
+
+---
 
 ## 🟢 NODE STATUS
 
-- 📫 Discord: acidv1p3r  
-- ⚡ Fun fact: I break things just to understand how they work
-- 🧩 Always building, always experimenting
+```text
+USER: Acidv1p3r
+ROLE: System Builder / Tinkerer / Breaker
+MODE: EXPERIMENTAL
+STATUS: ACTIVE
   
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/acidv1p3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
