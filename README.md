@@ -1,22 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=BIOS+CHECK...;HARDWARE+OK...;STARTING+SYSTEM..." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=LOADING+KERNEL...;MOUNTING+SYSTEM+FILES...;INITIALIZING+CORE+MODULES..." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=7CFF00&center=true&vCenter=true&width=650&lines=SCANNING+USER+PROFILE...;DECRYPTING+IDENTITY...;VERIFYING+NODE+SIGNATURE..." />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=600&color=FF3B3B&center=true&vCenter=true&width=650&lines=SECURITY+CHECK...;FIREWALL+ACTIVE...;NO+THREATS+DETECTED..." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1800&pause=500&color=FF006E&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=BIOS+CHECK...+HARDWARE+OK...+STARTING+SYSTEM...;LOADING+KERNEL...+MOUNTING+FILES...+INITIALIZING+CORE...;SCANNING+USER+PROFILE...+DECRYPTING+IDENTITY...;SECURITY+CHECK...+FIREWALL+ACTIVE...+NO+THREATS+DETECTED...;FINALIZING+BOOT...+ACCESS+GRANTED" />
 </p>
 
 <h1 align="center">
