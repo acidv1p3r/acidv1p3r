@@ -4,6 +4,7 @@
 
 <p align="center"><img src="https://imgur.com/Y3RSvgA.png" /></p>
 
+- 📫 How to reach me **Discord: acidv1p3r**
 - ⚡ Fun fact **I'm funny**
   
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer">
