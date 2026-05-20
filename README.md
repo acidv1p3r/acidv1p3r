@@ -38,5 +38,3 @@ UPTIME: UNKNOWN (too long)
 
 📊 SYSTEM STATS
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&theme=tokyonight&hide_border=true" /> </p> ```
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=acidv1p3r&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
