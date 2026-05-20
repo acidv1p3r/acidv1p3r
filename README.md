@@ -56,5 +56,5 @@
   </li>
 </ul>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NaysKutzu&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" />
 <a href="https://discord.com/users/289551961089638410"><img src="https://lanyard.cnrad.dev/api/289551961089638410?theme=dark&showDisplayName=true&hideClan=true" /></a>
