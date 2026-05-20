@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Linux+Tinkerer;Docker+Enthusiast;System+Builder;Professional+Thing+Breaker" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=Booting+System+Core...;Scanning+Environment...;Decrypting+Identity+Layer...;Loading+User+Modules...;Initializing+V1P3R+Signature...;ACCESS+GRANTED" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
@@ -58,3 +58,7 @@
 </ul>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=acidv1p3r&theme=dark&hide_border=true&border_radius=4.2&short_numbers=true" alt="GitHub Streak" />
+
+STATUS: STABLE
+UPTIME: UNKNOWN (too long)
+MODE: EXPERIMENTAL
