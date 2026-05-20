@@ -17,10 +17,7 @@
 </p>
 
 ---
-
-```text
 ## 🟢 NODE STATUS
-
 ```text
 [IDENTITY CHECK]
 WHOAMI: Acidv1p3r
