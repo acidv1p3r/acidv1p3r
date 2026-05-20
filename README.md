@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=BIOS+CHECK...+HARDWARE+OK...+STARTING+SYSTEM...;LOADING+KERNEL...+MOUNTING+FILES...+INITIALIZING+CORE...;SCANNING+USER+PROFILE...+DECRYPTING+IDENTITY...;SECURITY+CHECK...+FIREWALL+ACTIVE...+NO+THREATS+DETECTED...;FINALIZING+BOOT...+ACCESS+GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=750&lines=BIOS+CHECK...+OK;LOADING+KERNEL...;MOUNTING+SYSTEM...;SCANNING+USER+PROFILE...;DECRYPTING+IDENTITY...;SECURITY+CHECK...+CLEAR;ACCESS+GRANTED" />
 </p>
 
 <h1 align="center">
