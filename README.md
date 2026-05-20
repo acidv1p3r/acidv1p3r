@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm (Acidv1p3r)</h1>
+<h1 align="center">Hi 👋, I'm Acidv1p3r</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=Profile%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
 
-<p align="center"><img src="https://imgur.com/Y3RSvgA.png" /></p>
+<p align="center"><img src="https://i.imgur.com/Y3RSvgA.png" /></p>
 
-- 📫 How to reach me **Discord: acidv1p3r**
-- ⚡ Fun fact **I'm funny**
+- 📫 Discord: acidv1p3r  
+- ⚡ Fun fact: I break things just to understand how they work
   
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/acidv1p3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
