@@ -18,13 +18,22 @@
 
 ---
 
+```text
 ## 🟢 NODE STATUS
 
 ```text
-USER: Acidv1p3r
+[IDENTITY CHECK]
+WHOAMI: Acidv1p3r
+
+[PROFILE]
 ROLE: System Builder / Tinkerer / Breaker
 MODE: EXPERIMENTAL
+
+[SECURITY]
+ACCESS: AUTHORIZED
 STATUS: STABLE
+
+[SYSTEM]
 UPTIME: UNKNOWN (too long)
 ```
 <p align="center"> <a href="https://github.com/acidv1p3r"> <img src="https://img.shields.io/github/followers/acidv1p3r?style=for-the-badge&color=0891b2" /> </a> <a href="https://x.com/acidv1p3r"> <img src="https://img.shields.io/twitter/follow/acidv1p3r?style=for-the-badge&color=1DA1F2" /> </a> <a href="https://twitch.tv/acidv1p3r"> <img src="https://img.shields.io/twitch/status/acidv1p3r?style=for-the-badge&color=9146FF&label=LIVE" /> </a> </p>
