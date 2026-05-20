@@ -12,6 +12,7 @@
 
 - 📫 Discord: acidv1p3r  
 - ⚡ Fun fact: I break things just to understand how they work
+- 🧩 Always building, always experimenting
   
 <a href="https://www.github.com/acidv1p3r" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/acidv1p3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
