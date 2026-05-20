@@ -38,13 +38,6 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" /></a>
 </p>
 
-
-### My Socials
-
-<p align="left">
-  <!-- socials unchanged -->
-</p>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
