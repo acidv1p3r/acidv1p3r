@@ -1,14 +1,33 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=BIOS+CHECK...;HARDWARE+OK...;STARTING+SYSTEM..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=LOADING+KERNEL...;MOUNTING+SYSTEM+FILES...;INITIALIZING+CORE+MODULES..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=7CFF00&center=true&vCenter=true&width=650&lines=SCANNING+USER+PROFILE...;DECRYPTING+IDENTITY...;VERIFYING+NODE+SIGNATURE..." />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&pause=600&color=FF3B3B&center=true&vCenter=true&width=650&lines=SECURITY+CHECK...;FIREWALL+ACTIVE...;NO+THREATS+DETECTED..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1800&pause=500&color=FF006E&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED" />
+</p>
+
 <h1 align="center">
   Hi 👋, I'm Acidv1p3r
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&color=00FF9F&center=true&vCenter=true&width=650&lines=Booting+System+Core...;Scanning+Environment...;Decrypting+Identity+Layer...;Loading+User+Modules...;Initializing+V1P3R+Signature...;ACCESS+GRANTED" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acidv1p3r&label=%20views&color=0e75b6&style=flat" alt="acidv1p3r" /> </p>
 
 <p align="center"><img src="https://i.imgur.com/Y3RSvgA.png" /></p>
+
+## 🟢 NODE STATUS
 
 - 📫 Discord: acidv1p3r  
 - ⚡ Fun fact: I break things just to understand how they work
